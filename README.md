@@ -1,16 +1,34 @@
-### Hi there 👋
+<a href="https://discord.gg/QB628am" target="_blank" rel="nofollow"><img align="right" alt="NTZ Server" width="22px" src="https://www.jing.fm/clipimg/full/243-2438094_discord-svg-chat-transparent-background-discord-logo-transparent.png" /></a>
 
-<!--
-**TN-NT/TN-NT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<details>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
 
-Here are some ideas to get you started:
+</p>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
+
+<!--START_SECTION:waka-->
+```diff
+ 💬 > 15 ans, passionner de devloppement et d'osint
+```
+#
+```
+🤝 > Discord : NAOY#0001
+📌 > Discord : discord.gg/naoy - discord.gg/QB628am
+```
+#
+```
+🐍 > Python
+🌌 > Csharp
+🌟 > JavaScript
+🌐 > Html / Css / Js / Php
+```
+
+<!--END_SECTION:waka-->
+</details>
