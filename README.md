@@ -16,10 +16,10 @@
 ```
 #
 ```
-🐍 > Python
-🌌 > Csharp
-🌟 > JavaScript
-🌐 > Html / css (litle)
+🐍 > Python                 - Dev level => 10/10
+🌌 > Csharp                 - Dev level => 5/10
+🌟 > JavaScript             - Dev level => 4/10
+🌐 > Html / Css / Js / Php  - Dev level => 5/10
 
 >~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
