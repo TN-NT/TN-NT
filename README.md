@@ -1,34 +1,43 @@
-<a href="https://discord.gg/QB628am" target="_blank" rel="nofollow"><img align="right" alt="NTZ Server" width="22px" src="https://www.jing.fm/clipimg/full/243-2438094_discord-svg-chat-transparent-background-discord-logo-transparent.png" /></a>
-
----
-<details>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-
-</p>
-</details>
-
-<details open> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
+![](https://media.discordapp.net/attachments/787625002504552462/787672334860812308/PDP_Offi.gif?width=526&height=350)
+#
 ```diff
- 💬 > 15 ans, passionner de devloppement et d'osint
+ 💬 > 15 years old, french developper.
+ ✔️ > Rien est impossible il suffit juste de trouver la solution.
 ```
 #
 ```
-🤝 > Discord : NAOY#0001
-📌 > Discord : discord.gg/naoy - discord.gg/QB628am
+🤝 > Contact : trozilu@gmail.com
+📌 > Discord : https://discord.gg/EYVyCqb4Qg
+```
+#
+```
+💫 > Contact : trozilu@gmail.com
+✨ > Github  : https://github.com/TN-TN
 ```
 #
 ```
 🐍 > Python
 🌌 > Csharp
 🌟 > JavaScript
-🌐 > Html / Css / Js / Php
+🌐 > Html / css (litle)
+
+>~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+🔸 > C (learning)
+```
+#
+```
+📈 Boss list
+
+📌 > github.com/NAOYY - Boss level => 101%
+📌 > github.com/TN-TN - Boss level => 101%
+```
+#
+```
+📉 Skid list
+
+📌 > github.com/Zenroxx      - Skid level => 103%
+📌 > github.com/Monst3red      - Skid level => 101%
+📌 > github.com/zerowwDev - Skid level =>  80%
 ```
 
-<!--END_SECTION:waka-->
-</details>
